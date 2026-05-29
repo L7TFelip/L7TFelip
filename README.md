@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
