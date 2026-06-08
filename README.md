@@ -4,6 +4,12 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 
 ### 🤖 Linguagens e Tecnologias
 
-* **Front-end:** HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • SASS
-* **Back-end & Banco de Dados:** PHP • Laravel • Python • MySQL
-* **Ferramentas:** Git & GitHub
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![Tailwind](https://shields.io) ![SASS](https://shields.io) ![PHP](https://shields.io) ![Laravel](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io) ![C++](https://shields.io) ![C#](https://shields.io) ![C](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io)
+
+### 👾 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="pacman contribution graph" src="https://githubusercontent.com">
+</picture>
