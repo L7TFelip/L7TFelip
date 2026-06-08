@@ -173,33 +173,14 @@ Public
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+/n
+
 <!-- Pacman Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph.svg">
 </picture>
-
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeaparecidoneves-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeaparecidoneves-web&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=felipeaparecidoneves-web&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :   Learning every day</h3>
-
-###
-
-<h3 align="left">⚜️  About Me: Future Software Engineer</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
