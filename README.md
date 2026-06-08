@@ -155,5 +155,4 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
   <img width="12" />
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
 </div>
