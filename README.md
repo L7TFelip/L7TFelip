@@ -4,26 +4,8 @@
 
 Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
 
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu can ⚜️ Futuro Engenheiro Mecânico ☕ Entusiasta de Java | Tecnologia e Aprendizado Contínuo
-￼Edit profile
- 3 followers · 1 following
-L7TFelip/README.md
-Felipe Neves
-Desenvolvedor FullStack
-
-Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
-
-￼ ￼ ￼ ￼
-
 🤖 Linguagens e Tecnologias
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-
-￼
 Customize your pins
 Popular repositoriesLoading
 L7TFelip
