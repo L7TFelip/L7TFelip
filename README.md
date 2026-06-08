@@ -5,25 +5,25 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img alt="HTML5" title="HTML5" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40" style="padding-right: 10px;" src="https://jsdelivr.net" />
-  <img alt="TypeScript" title="TypeScript" width="40" style="padding-right: 10px;" src="https://jsdelivr.net" />
-  <img alt="React" title="React" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="40" style="padding-right: 10px;" src="https://jsdelivr.net" />
-  <img alt="SASS" title="SASS" width="40" style="padding-right: 10px;" src="https://jsdelivr.net" />
-  <img alt="PHP" title="PHP" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Laravel" title="Laravel" width="40" style="padding-right: 10px;" src="https://jsdelivr.net" />
-  <img alt="MySQL" title="MySQL" width="40" style="padding-right: 10px;" src="https://jsdelivr.net" />
-  <img alt="Git" title="Git" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Python" title="Python" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://shields.io" alt="HTML5" height="30" />
+  <img src="https://shields.io" alt="CSS3" height="30" />
+  <img src="https://shields.io" alt="JavaScript" height="30" />
+  <img src="https://shields.io" alt="TypeScript" height="30" />
+  <img src="https://shields.io" alt="React" height="30" />
+  <img src="https://shields.io" alt="Next.js" height="30" />
+  <img src="https://shields.io" alt="Tailwind" height="30" />
+  <img src="https://shields.io" alt="SASS" height="30" />
+  <img src="https://shields.io" alt="PHP" height="30" />
+  <img src="https://shields.io" alt="Laravel" height="30" />
+  <img src="https://shields.io" alt="MySQL" height="30" />
+  <img src="https://shields.io" alt="Git" height="30" />
+  <img src="https://shields.io" alt="Python" height="30" />
 </p>
 
 ### 👾 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="pacman contribution graph" src="https://githubusercontent.com">
 </picture>
