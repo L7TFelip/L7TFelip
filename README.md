@@ -4,42 +4,6 @@
 
 Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
 
-🤖 Linguagens e Tecnologias
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-Customize your pins
-Popular repositoriesLoading
-L7TFelip
-Public
-
- 1al" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/L7TFelip?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
