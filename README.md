@@ -125,7 +125,7 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeaparecidoneves-web/felipeaparecidoneves-web/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 <div align="left">
