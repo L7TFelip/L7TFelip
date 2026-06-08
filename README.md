@@ -27,7 +27,9 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="12" />  <img width="12" />
+  <img src="https://cdn.js
+
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
@@ -42,6 +44,3 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
   <img width="12" />
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
 </div>
-### 👾 Contribuições
-
-*Atividade recente e histórico de commits atualizados diretamente no meu perfil do GitHub.*
