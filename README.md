@@ -92,7 +92,7 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://skillicons.dev/icons?i=mysql" 
 />
 <img 
     align="left" 
@@ -100,7 +100,7 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" 
 />
 <img 
     align="left" 
