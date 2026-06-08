@@ -1,22 +1,16 @@
 # Felipe Neves **Desenvolvedor FullStack**
 
-<p align="left">
-  Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
-</p>
+Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Competências Técnicas
 
 
-| Área | Tecnologias |
+| Área | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Front-end** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![Tailwind](https://shields.io) ![SASS](https://shields.io) |
-| **Back-end & Banco** | ![PHP](https://shields.io) ![Laravel](https://shields.io) ![Python](https://shields.io) ![MySQL](https://shields.io) |
-| **Ferramentas** | ![Git](https://shields.io) ![GitHub](https://shields.io) |
+| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • SASS |
+| ⚙️ **Back-end & Banco** | PHP • Laravel • Python • MySQL |
+| 🛠️ **Ferramentas** | Git • GitHub |
 
 ### 👾 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="pacman contribution graph" src="https://githubusercontent.com">
-</picture>
+*Atividade recente e histórico de commits atualizados diretamente no meu perfil do GitHub.*
