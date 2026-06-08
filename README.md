@@ -11,6 +11,10 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 | ⚙️ **Back-end & Banco** | PHP • Laravel • Python • Java • C • C++ • C# • MySQL |
 | 🛠️ **Ferramentas** | Git • GitHub |
 
+- 🎓 Estudo Desenvolvimento de Sistemas
+- 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
+- ☕ Futuro Desenvolvedor Java
+
 ### 👾 Contribuições
 
 *Atividade recente e histórico de commits atualizados diretamente no meu perfil do GitHub.*
