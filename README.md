@@ -2,7 +2,8 @@
 
 Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
 
-<div align="center"><a href="https://linkedin.com" target="_blank"><img src="https://shields.io" height="25" alt="linkedin logo" /></a></div>
+<p align="center">[![LinkedIn](https://shields.io)](https://linkedin.com)</p>
+
 
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
