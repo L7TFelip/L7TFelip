@@ -25,7 +25,8 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 - 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
 - ☕ Futuro Desenvolvedor Java
 
+<div align="center">
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/198940767?s=400&u=c5d2097f785f7d8187cba0246963fd0a41f695c5&v=4">
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,c,cpp,cs,mysql,git,github,vscode,linux"/>
+
+</div>
