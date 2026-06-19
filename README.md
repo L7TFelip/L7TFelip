@@ -1,3 +1,8 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=L7TFelip&fontSize=40&fontColor=ffffff" />
+</div>
+
 # Felipe Neves **Desenvolvedor FullStack**
 
 Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
@@ -20,11 +25,6 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 | 💻 **Front-end** | HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • SASS |
 | ⚙️ **Back-end & Banco** | PHP • Laravel • Python • Java • C • C++ • C# • MySQL |
 | 🛠️ **Ferramentas** | Git • GitHub |
-
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=L7TFelip&fontSize=40&fontColor=ffffff" />
-</div>
 
 <!-- STATS -->
 <div align="center">
