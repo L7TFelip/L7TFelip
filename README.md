@@ -21,6 +21,47 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 | ⚙️ **Back-end & Banco** | PHP • Laravel • Python • Java • C • C++ • C# • MySQL |
 | 🛠️ **Ferramentas** | Git • GitHub |
 
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=L7TFelip&fontSize=40&fontColor=ffffff" />
+</div>
+
+<!-- STATS -->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L7TFelip&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+<!-- STREAK -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L7TFelip&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<!-- BADGES -->
+<div align="center">
+
+<a href="https://github.com/L7TFelip">
+  <img src="https://img.shields.io/badge/GitHub-L7TFelip-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+  <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<!-- PROFILE VIEWS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=L7TFelip&style=for-the-badge&color=blue"/>
+</div>
+
 - 🎓 Estudo Desenvolvimento de Sistemas
 - 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
 - ☕ Futuro Desenvolvedor Java
