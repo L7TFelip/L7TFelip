@@ -35,11 +35,6 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 
 </div>
 
-<!-- STREAK -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L7TFelip&theme=tokyonight&hide_border=true"/>
-</div>
-
 
 - 🎓 Estudo Desenvolvimento de Sistemas
 - 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
