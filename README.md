@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:000000,30:2b0000,60:ff0000,100:ff003c&text=L7TFelip&fontSize=48&fontColor=ffffff&animation=blinking&fontAlignY=35&desc=⚔️%20FULLSTACK%20DEVELOPER%20•%20CYBERSECURITY&descAlignY=63&descSize=13"/>
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Cybersecurity+Enthusiast;Bug+Hunter;Always+Learning+New+Technologies" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,30:2b0000,60:ff0000,100:ff003c&text=L7TFelip&fontSize=52&fontColor=ffffff&fontAlignY=30&desc=Fullstack%20Developer%20•%20Cybersecurity%20•%20Bug%20Hunter&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=FF003C&center=true&vCenter=true&width=700&lines=Always+Learning+New+Technologies;Building+Secure+Applications;Backend+%7C+Frontend+%7C+Cybersecurity"/>
+
+</div>
 
 # Felipe Neves **Desenvolvedor FullStack**
 
