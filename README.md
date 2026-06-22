@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:1a0000,20:4d0000,50:ff0000,80:ff0033,100:ff1744&text=L7TFelip&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Fullstack%20Developer%20|%20🛡️%20Cybersecurity%20Enthusiast&descAlignY=68&descSize=14"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:000000,30:2b0000,60:ff0000,100:ff003c&text=L7TFelip&fontSize=48&fontColor=ffffff&animation=blinking&fontAlignY=35&desc=⚔️%20FULLSTACK%20DEVELOPER%20•%20CYBERSECURITY&descAlignY=63&descSize=13"/>
 </div>
 
 # Felipe Neves **Desenvolvedor FullStack**
