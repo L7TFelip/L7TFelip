@@ -19,8 +19,8 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 
 | Área |Tecnologias e Ferramentas |
 | :--- | :--- |
-| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • SASS |
-| ⚙️ **Back-end & Banco** | PHP • Laravel • Python • Java • C • C++ • C# • MySQL |
+| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • React |
+| ⚙️ **Back-end & Banco** | PHP • Python • Java • C • C++ • MySQL |
 | 🛠️ **Ferramentas** | Git • GitHub |
 
 <!-- STATS -->
