@@ -35,7 +35,7 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 
 - 🎓 Estudo Desenvolvimento de Sistemas
 - 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
-- ☕ Futuro Desenvolvedor Java
+- ☕ Futuro Desenvolvedor em C
 
 <div align="center">
 
