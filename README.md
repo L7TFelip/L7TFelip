@@ -1,8 +1,5 @@
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,35:2b0000,70:C00030,100:FF003C&text=L7TFelip&fontSize=54&fontColor=ffffff&fontAlignY=30&desc=Fullstack%20Developer%20•%20Cybersecurity%20•%20Bug%20Hunter%20•%20Always%20Learning%20New%20Technologies&descAlignY=58&descSize=18"
-  />
+  <img src="header.png" width="100%" alt="L7TFelip Banner">
 </div>
 
 Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
