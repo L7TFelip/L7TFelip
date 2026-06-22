@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=L7TFelip&fontSize=40&fontColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0000,25:2b0000,50:6a0014,75:b3002d,100:ff003c&text=L7TFelip&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=65&descSize=18"/>
 </div>
 
 # Felipe Neves **Desenvolvedor FullStack**
