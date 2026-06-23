@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="L7TFelip Banner" style="width: 100%; height: 80px; object-fit: contain;">
+  <img src="header.png" width="100%" height="auto" alt="L7TFelip Banner">
 </div>
 
 
