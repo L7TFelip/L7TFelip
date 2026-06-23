@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="header.png" width="100%" height="80" alt="L7TFelip Banner">
+  <img src="header.png" alt="L7TFelip Banner" style="width: 100%; height: 80px; object-fit: contain;">
 </div>
+
 
 Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
 
