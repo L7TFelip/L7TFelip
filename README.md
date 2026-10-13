@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=L7TFelip&show_icons=true&theme=dark" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&theme=dark" height="180" />
 </p>
@@ -49,14 +49,14 @@
 * Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
 * ☕ Futuro Desenvolvedor | Programador de Sistemas.
 
-<h3 align="center">Uso no dia a dia</h3>
+<h3 align="left">Uso no dia a dia</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,py,git,github,vscode" />
 </p>
 
-<h3 align="center">Quero aprender</h3>
+<h3 align="left">Quero aprender</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,php,c,cpp,cs,mysql,linux" />
 </p>
