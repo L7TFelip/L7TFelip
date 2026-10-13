@@ -1,91 +1,62 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Felipe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Web&descAlignY=58&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=520&lines=Aprendendo+e+construindo+todo+dia;Foco+em+desenvolvimento+web;Futuro+programador+de+sistemas" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discord.com/users/SEU-ID"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://facebook.com/SEU-USUARIO"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://t.me/SEU-USUARIO"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://wa.me/SEU-NUMERO"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-</div>
-
-<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 <table width="100%" border="0">
   <tr>
-    <td width="70%" valign="middle">
-      <h2>Sobre mim</h2>
-      <p>
-        Sou fascinado por tecnologia, desenvolvimento de software e programação.
-        Estudo Desenvolvimento de Sistemas e gosto de criar aplicações, aprender
-        tecnologias novas e melhorar minhas habilidades a cada projeto.
-        Meu foco hoje é <b>desenvolvimento web e sistemas</b>.
-      </p>
-      <ul>
-        <li>Estudando Desenvolvimento de Sistemas</li>
-        <li>Aprendendo novas linguagens e aprofundando o que já sei</li>
-        <li>Objetivo: ser desenvolvedor / programador de sistemas</li>
-      </ul>
+    <td width="70%" valign="top">
+      <h3>Competências Técnicas</h3>
+      <table border="1" width="100%">
+        <thead>
+          <tr>
+            <th align="left">Área</th>
+            <th align="left">Tecnologias e Ferramentas</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>💻 Front-end</td>
+            <td>HTML5 • CSS3 • JavaScript • React</td>
+          </tr>
+          <tr>
+            <td>⚙️ Back-end & Banco</td>
+            <td>Python • JavaScript</td>
+          </tr>
+          <tr>
+            <td>🛠️ Ferramentas</td>
+            <td>Git • GitHub</td>
+          </tr>
+        </tbody>
+      </table>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="gen.gif" width="170" alt="Gengar" />
+      <img src="gen.gif" width="160" alt="Gengar GIF" />
     </td>
   </tr>
 </table>
 
-<br>
-
-## Competências
-
-| Área | Tecnologias |
-|:-----|:------------|
-| Front-end | HTML5 • CSS3 • JavaScript • React |
-| Back-end | Python • JavaScript |
-| Ferramentas | Git • GitHub • VS Code |
-
-<br>
-
-## Stack
-
-**Uso no dia a dia**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,git,github,vscode&theme=dark" />
-</p>
-
-**Estudando**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,c,cpp,cs,mysql,linux&theme=dark" />
-</p>
-
-<br>
-
-## Projetos
-
-<!-- Troque REPO1, REPO2, REPO3 pelos nomes dos seus repositórios -->
 <p align="center">
-  <a href="https://github.com/L7TFelip/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=L7TFelip&repo=REPO1&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/L7TFelip/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=L7TFelip&repo=REPO2&theme=tokyonight&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=L7TFelip&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&theme=dark" height="180" />
 </p>
 
-<br>
+* Estudo Desenvolvimento de Sistemas
+* Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
+* ☕ Futuro Desenvolvedor | Programador de Sistemas.
 
-## GitHub
+<h3 align="center">Uso no dia a dia</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L7TFelip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,git,github,vscode" />
 </p>
+
+<h3 align="center">Quero aprender</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=L7TFelip&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,php,c,cpp,cs,mysql,linux" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
