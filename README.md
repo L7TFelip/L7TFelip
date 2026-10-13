@@ -16,6 +16,7 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 | ⚙️ **Back-end & Banco** | Python • JavaScript|
 | 🛠️ **Ferramentas** | Git • GitHub |
 
+
 <!-- STATS -->
 <div align="center">
 
@@ -24,6 +25,7 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
+
 
 - 🎓 Estudo Desenvolvimento de Sistemas
 - 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
