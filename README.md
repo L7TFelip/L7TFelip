@@ -7,7 +7,14 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   
-</div>
+### Competências Técnicas
+
+
+| Área |Tecnologias e Ferramentas |
+| :--- | :--- |
+| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • React |
+| ⚙️ **Back-end & Banco** | Python • JavaScript|
+| 🛠️ **Ferramentas** | Git • GitHub |
 
 <!-- STATS -->
 <div align="center">
@@ -17,15 +24,6 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
-
-### Competências Técnicas
-
-
-| Área |Tecnologias e Ferramentas |
-| :--- | :--- |
-| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • React |
-| ⚙️ **Back-end & Banco** | Python • JavaScript|
-| 🛠️ **Ferramentas** | Git • GitHub |
 
 - 🎓 Estudo Desenvolvimento de Sistemas
 - 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
