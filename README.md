@@ -1,39 +1,42 @@
 Meu nome é Felipe, tenho 17 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEEP Pedro Boaretto Neto. Sou fascinado por tecnologia, desenvolvimento de software e programação, com foco no aprimoramento contínuo de habilidades técnicas, criação de aplicações e aprendizado de novas tecnologias voltadas ao desenvolvimento web e sistemas.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/felipenevesdevsytems/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-</div>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="65%" valign="top">
 
 ### Competências Técnicas
 
-| Área |Tecnologias e Ferramentas |
+| Área | Tecnologias e Ferramentas |
 | :--- | :--- |
-| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • React |
-| ⚙️ **Back-end & Banco** | Python • JavaScript|
-| 🛠️ **Ferramentas** | Git • GitHub |
+| 💻 Front-end | HTML5 • CSS3 • JavaScript • React |
+| ⚙️ Back-end & Banco | Python • JavaScript |
+| 🛠️ Ferramentas | Git • GitHub |
 
-<!-- STATS -->
-<div align="left">
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="180px" alt="Gengar GIF" />
+    </td>
+  </tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L7TFelip&show_icons=true&hide_border=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L7TFelip&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&theme=dark" height="180" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&hide_border=true&theme=tokyonight"/>
+* Estudo Desenvolvimento de Sistemas
+* Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
+* 🔮 Futuro Desenvolvedor | Programador de Sistemas.
 
-</div>
-
-- Estudo Desenvolvimento de Sistemas
-- Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
-- ☕ Futuro Desenvolvedor | Programador de Sistemas.
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,c,cpp,cs,mysql,git,github,vscode,linux"/>
-
-</div>
+<p align="center">
+  <img src="https://skin-sublimation.click/badges.svg" />
+</p>
