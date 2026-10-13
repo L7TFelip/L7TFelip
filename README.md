@@ -32,7 +32,7 @@ Meu nome é Felipe, tenho 17 anos e atualmente curso o 3º ano de Desenvolviment
       </table>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="charizard.gif" width="160" alt="Gengar GIF" />
+      <img src="charizardS.gif" width="160" alt="Gengar GIF" />
     </td>
   </tr>
 </table>
