@@ -35,7 +35,7 @@
       </table>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="gen.gif" width="160" alt="Gengar GIF" />
+      <img src="gengar.gif" width="160" alt="Gengar GIF" />
     </td>
   </tr>
 </table>
