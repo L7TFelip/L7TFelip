@@ -11,19 +11,33 @@ Meu nome é Felipe, tenho 17 anos e atualmente curso o 3º ano de Desenvolviment
 
 <table width="100%" border="0">
   <tr>
-    <td width="65%" valign="top">
-
-### Competências Técnicas
-
-| Área | Tecnologias e Ferramentas |
-| :--- | :--- |
-| 💻 Front-end | HTML5 • CSS3 • JavaScript • React |
-| ⚙️ Back-end & Banco | Python • JavaScript |
-| 🛠️ Ferramentas | Git • GitHub |
-
+    <td width="70%" valign="top">
+      <h3>Competências Técnicas</h3>
+      <table border="1" width="100%">
+        <thead>
+          <tr>
+            <th align="left">Área</th>
+            <th align="left">Tecnologias e Ferramentas</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>💻 Front-end</td>
+            <td>HTML5 • CSS3 • JavaScript • React</td>
+          </tr>
+          <tr>
+            <td>⚙️ Back-end & Banco</td>
+            <td>Python • JavaScript</td>
+          </tr>
+          <tr>
+            <td>🛠️ Ferramentas</td>
+            <td>Git • GitHub</td>
+          </tr>
+        </tbody>
+      </table>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="180px" alt="Gengar GIF" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="160" alt="Gengar GIF" />
     </td>
   </tr>
 </table>
@@ -38,5 +52,5 @@ Meu nome é Felipe, tenho 17 anos e atualmente curso o 3º ano de Desenvolviment
 * 🔮 Futuro Desenvolvedor | Programador de Sistemas.
 
 <p align="center">
-  <img src="https://skin-sublimation.click/badges.svg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,py,php,c,cpp,cs,mysql,git,github,vscode,linux" />
 </p>
