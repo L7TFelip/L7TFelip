@@ -9,15 +9,6 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
   
 </div>
 
-### 🤖 Competências Técnicas
-
-
-| Área |Tecnologias e Ferramentas |
-| :--- | :--- |
-| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • React |
-| ⚙️ **Back-end & Banco** | Python • JavaScript|
-| 🛠️ **Ferramentas** | Git • GitHub |
-
 <!-- STATS -->
 <div align="center">
 
@@ -27,6 +18,14 @@ Meu nome é Felipe, tenho 16 anos e atualmente curso o 3º ano de Desenvolviment
 
 </div>
 
+### Competências Técnicas
+
+
+| Área |Tecnologias e Ferramentas |
+| :--- | :--- |
+| 💻 **Front-end** | HTML5 • CSS3 • JavaScript • React |
+| ⚙️ **Back-end & Banco** | Python • JavaScript|
+| 🛠️ **Ferramentas** | Git • GitHub |
 
 - 🎓 Estudo Desenvolvimento de Sistemas
 - 📚 Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
