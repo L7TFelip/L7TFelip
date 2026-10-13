@@ -49,7 +49,7 @@ Meu nome é Felipe, tenho 17 anos e atualmente curso o 3º ano de Desenvolviment
 
 * Estudo Desenvolvimento de Sistemas
 * Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
-* 🔮 Futuro Desenvolvedor | Programador de Sistemas.
+* ☕ Futuro Desenvolvedor | Programador de Sistemas.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,py,php,c,cpp,cs,mysql,git,github,vscode,linux" />
