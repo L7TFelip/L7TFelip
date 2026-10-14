@@ -49,9 +49,9 @@ Tenho 17 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEE
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L7TFelip&layout=compact&theme=dark" height="180" />
 </p>
 
-* Estudo Desenvolvimento de Sistemas
-* Atualmente estou aprendendo novas linguagens de programação e aprofundando meus conhecimentos
-* ☕ Futuro Desenvolvedor | Programador de Sistemas.
+* Tech Student & Full-Stack Enthusiast
+* I am currently learning new programming languages and deepening my knowledge
+* ☕ Future Developer | Systems Programmer
 
 <h3 align="left">Uso no dia a dia</h3>
 
