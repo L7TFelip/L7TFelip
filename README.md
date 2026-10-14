@@ -51,7 +51,7 @@ Tenho 17 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEE
 
 * Tech Student & Full-Stack Enthusiast
 * I am currently learning new programming languages and deepening my knowledge
-* ☕ Future Developer | Systems Programmer
+* Google (Noto Color Emoji 17.0) Future Developer | Systems Programmer
 
 <h3 align="left">Uso no dia a dia</h3>
 
