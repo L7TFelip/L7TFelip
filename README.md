@@ -51,7 +51,7 @@ Tenho 17 anos e atualmente curso o 3º ano de Desenvolvimento de Sistemas no CEE
 
 * Tech Student & Full-Stack Enthusiast
 * I am currently learning new programming languages and deepening my knowledge
-* Google (Noto Color Emoji 17.0) Future Developer | Systems Programmer
+* https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/2615.svg Future Developer | Systems Programmer
 
 <h3 align="left">Uso no dia a dia</h3>
 
